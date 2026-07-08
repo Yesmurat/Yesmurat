@@ -1,3 +1,7 @@
 ## Hi 👋, I'm Yesmurat
 
-I'm an Electrical Engineering student at Drexel University interested in RISC-V CPU design.
+I study Electrical Engineering  at Drexel University.
+My main interests are:
+1. CPU Design
+2. Design Verification
+3. FPGA Design
